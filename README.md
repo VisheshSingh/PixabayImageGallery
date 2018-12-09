@@ -1,2 +1,0 @@
-# PixabayImageGallery
-Created with CodeSandbox
